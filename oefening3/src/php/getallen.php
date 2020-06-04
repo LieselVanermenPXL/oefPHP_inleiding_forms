@@ -14,5 +14,5 @@ if (ctype_digit($aantal) && (int)$aantal > 0) {
 
     <?php
 } else {
-    header("Location: /ingave.html");
+    header("Location: ../ingave.html");
 }
